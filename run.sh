@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #download xmrig
-wget https://github.com/xmrig/xmrig/releases/download/v6.20.0/xmrig-6.20.0-focal-x64.tar.gz
+wget https://github.com/xmrig/xmrig/releases/download/v6.20.0/xmrig-6.21.0-focal-x64.tar.gz
 #unzip it
-tar -xf xmrig-6.20.0.tar.gz
+tar -xf xmrig-6.21.0.tar.gz
 #get out the box the tool
-mv xmrig-6.20.0/xmrig ./xmrig
+mv xmrig-6.21.0/xmrig ./xmrig
 #remove the trash
 rm -rf xmrig-*
 #run the tool
