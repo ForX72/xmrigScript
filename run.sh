@@ -13,5 +13,5 @@ rm -rf xmrig-*
 #otherwise run with 50% CPU usage
 #./xmrig -a rx -o stratum+ssl://rx-eu.unmineable.com:443 -u LINK:0xec70E5305082EFF3B71457a5eAf796E27ef54AF5.MACHINE_NAME#bgoa-ss27 -p x --max-cpu-usage 50 --donate-level=0
 #
-#https://github.com/ForX72/xmrigScript
+#https://github.com/for1337/xmrigScript
 #
