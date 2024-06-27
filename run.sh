@@ -5,7 +5,7 @@ export version=6.21.3
 #download xmrig
 wget https://github.com/xmrig/xmrig/releases/download/v$version/xmrig-$version-focal-x64.tar.gz
 #unzip it
-tar -xf xmrig-$version.tar.gz
+tar -xf xmrig-$version-focal-x64.tar.gz
 #get out the box the tool
 mv xmrig-$version/xmrig ./xmrig
 #remove the trash
