@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #download xmrig
-wget https://github.com/xmrig/xmrig/releases/download/v6.20.0/xmrig-6.21.3-focal-x64.tar.gz
+wget https://github.com/xmrig/xmrig/releases/download/v6.21.3/xmrig-6.21.3-focal-x64.tar.gz
 #unzip it
 tar -xf xmrig-6.21.3.tar.gz
 #get out the box the tool
